@@ -8,7 +8,7 @@ export default {
   logo: "/images/logo.png",
   // You might want to add a custom favicon
   // favicon: "/images/favicon.ico",
-  
+  showSidebar: true,
   // Additional configuration options
   navLinks: [
     { href: "/", name: "Home" },

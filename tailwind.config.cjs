@@ -26,21 +26,19 @@ module.exports = {
       colors: {
         background: {
           DEFAULT: colors.white,
-          dark: colors.slate[900],
+          dark: colors.neutral[900],
         },
         primary: {
           DEFAULT: colors.gray[700],
           dark: colors.gray[300],
         },
         secondary: {
-          DEFAULT: colors.sky[400],
-          dark: colors.sky[400],
+          DEFAULT: colors.purple[600],
+          dark: colors.purple[400],
         },
       },
     },
   },
   /* eslint global-require: off */
-  plugins: [
-    require("@tailwindcss/typography")
-  ],
+  plugins: [require("@tailwindcss/typography")],
 };
