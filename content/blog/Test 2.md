@@ -1,0 +1,1 @@
+if i post and press single publish does it delete index?
