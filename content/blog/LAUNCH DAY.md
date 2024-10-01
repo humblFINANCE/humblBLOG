@@ -13,8 +13,8 @@ Check our official launch on October 2nd!
 [Product Hunt](https://www.producthunt.com/posts/humblfinance)
 
 Here are two interactive demos for a humblFINANCE quick-start if you don't feel like reading:
-[humblFINANCE Dashboard Demo](https://app.arcade.software/share/QGVEV8SZ3FTSz5uESDeO)
-[humblFINANCE Landing Page Overview](https://app.arcade.software/share/EmakN72U4m8XtxIkd4OD)
+- [humblFINANCE Dashboard Demo](https://app.arcade.software/share/QGVEV8SZ3FTSz5uESDeO)
+- [humblFINANCE Landing Page Overview](https://app.arcade.software/share/EmakN72U4m8XtxIkd4OD)
 
 # Why [humblFINANCE](https://humblfinance.io/)?
 I am not a financial guy. I didn't know the first thing to do when I wanted to "invest" my money. I didn't know what data to look at, I didn't know who to listen to for advice or guidance on the subject, I didn't know the tools available to regular investors like myself. All I knew is that I wanted to be able to invest my money and put it aside without having to worry about losing it all. So the journey began. I'm not writing today to tell you about that journey, but I'm here today to tell you about the result of that journey. I've lost money in the market, had a couple accounts go to zero, but embedded deep in those experiences were some lessons that I kept building on to achieve what I believe is possible; a shallow learning curve for regular investors, knows as retail traders in the financial world (bc I'm a financial guy now) to take advantage of the ever increasing value of the US stock market. 
